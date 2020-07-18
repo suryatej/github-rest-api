@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hackerrank.github.requests.EventsControllerTest" tests="13" failures="0" errors="0" skipped="0" time="20.206">
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.createEvent" time="19.882" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.createEventWithExistingId" time="0.013" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findEventById" time="0.05" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findEventByNonExistingId" time="0.008" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEventsByRepoId" time="0.166" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEventsByNonExistingRepoId" time="0.008" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEventsByActorId" time="0.014" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEventsByNonExistingActorId" time="0.007" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEventsByRepoIdAndActorId" time="0.017" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEventsByNonExistingRepoIdAndNonExistingActorId" time="0.01" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEventsByNonExistingRepoIdAndActorId" time="0.007" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEventsByRepoIdAndNonExistingActorId" time="0.009" />
+  <testcase classname="com.hackerrank.github.requests.EventsControllerTest" name="com.hackerrank.github.requests.EventsControllerTest.findAllEvents" time="0.015" />
+</testsuite>
+
